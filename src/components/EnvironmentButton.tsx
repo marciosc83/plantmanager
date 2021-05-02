@@ -41,7 +41,7 @@ const style = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         borderRadius: 12,
-        marginRight: 20,
+        marginHorizontal: 20,
     },
     containerActive: {
         backgroundColor: colors. green_light,
